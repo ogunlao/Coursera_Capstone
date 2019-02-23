@@ -8,6 +8,6 @@ Three data sourses were used in this project.
 2. Hotel Location Data gotten through the [Foursquare API](https://developer.foursquare.com/)
 3. Hotel facilities data gotten from [hotels.ng](http://hotels.ng). 
 
-There is a presentation with summary of the project and a python notebook with the code details.
+For a summary, see [presentation](./capstone_presentation.pptx) or [notebook](./lagos_hotel_segmentation_report.ipynb)
 
 I hope you enjoy.

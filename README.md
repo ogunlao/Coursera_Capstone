@@ -1,6 +1,6 @@
 # Clustering Lagos Hotels with Similar Facilities
 
-This repository was submitted to complete the IBM Data Science capstone project.
+This repository was submitted as IBM Data Science capstone project.
 
 Three data sourses were used in this project.
 
